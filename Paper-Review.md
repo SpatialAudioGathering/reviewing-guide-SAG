@@ -42,7 +42,7 @@ Summarise any negative aspects, and suggest ways that these might be improved. I
 
 #### 4: State your rating, and give a justification.
 
-Finally, state your recommendation (Strong Accept, Accept, Weak Accept, Borderline, Weak Reject, Reject or Strong Reject). Clearly state why you are making this recommendation. Please take a moment to contextualise this rating within the question that guides our decisions for NIME content: ***Does this submission present a unique, important, and useful enhancement to NIME community knowledge? Why or why not?***
+Finally, state your recommendation (Strong Accept, Accept, Weak Accept, Borderline, Weak Reject, Reject or Strong Reject). Clearly state why you are making this recommendation. Please take a moment to contextualise this rating within the question that guides our decisions for SAG content: ***Does this submission present a unique, important, and useful enhancement to the field's body of knowledge? Why or why not?***
 
 ### Review FAQs
 
