@@ -83,6 +83,7 @@ Submissions are rejected at the beginning of the process (known as a “desk rej
 
 - The submission is not submitted in English
 - The submission is obviously not complete (e.g. no expected media or documentation) or do not follow the template provided.
+- The submission's materials are unavailable or inaccessible.
 
 These are the only situations in which there can be a desk rejection. Otherwise, the submission goes to review. Such decisions are taken by the music chairs, but they will be grateful for your help in identifying any potential problems.
 
